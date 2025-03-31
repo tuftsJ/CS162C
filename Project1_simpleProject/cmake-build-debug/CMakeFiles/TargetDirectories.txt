@@ -1,0 +1,3 @@
+C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/Project1_simpleProject/cmake-build-debug/CMakeFiles/Project1_simpleProject.dir
+C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/Project1_simpleProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jeff/Documents/__School/Spring 2025/CS162C/Project1_simpleProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

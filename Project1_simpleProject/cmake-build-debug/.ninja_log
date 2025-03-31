@@ -1,0 +1,23 @@
+# ninja log v6
+3	426	7651440508703366	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+428	513	7651440512947625	Project1_simpleProject.exe	bf4b30eced9de051
+27	414	7651441037188995	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+414	516	7651441041059490	Project1_simpleProject.exe	bf4b30eced9de051
+22	361	7651441305909591	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+361	431	7651441309301472	Project1_simpleProject.exe	bf4b30eced9de051
+10	426	7651442515861590	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+426	508	7651442520025453	Project1_simpleProject.exe	bf4b30eced9de051
+25	429	7651443168526997	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+429	501	7651443172565938	Project1_simpleProject.exe	bf4b30eced9de051
+28	379	7651443426523028	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+379	453	7651443430040056	Project1_simpleProject.exe	bf4b30eced9de051
+26	360	7651443710751809	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+360	436	7651443714090991	Project1_simpleProject.exe	bf4b30eced9de051
+27	380	7651443917825683	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+381	450	7651443921357484	Project1_simpleProject.exe	bf4b30eced9de051
+33	409	7651444280602249	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+409	480	7651444284367362	Project1_simpleProject.exe	bf4b30eced9de051
+26	366	7651444598568071	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+366	451	7651444601980855	Project1_simpleProject.exe	bf4b30eced9de051
+25	374	7651446009733322	CMakeFiles/Project1_simpleProject.dir/main.cpp.obj	b1e85142c4bf3cf2
+375	444	7651446013236480	Project1_simpleProject.exe	bf4b30eced9de051
